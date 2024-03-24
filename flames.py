@@ -2,8 +2,8 @@ import random
 print("FLAMES")
 game="yes"
 while game=="yes":
-    name1=input("enter the name:")
-    name2=input("enter the name:")
+    name1=input("enter your name:")
+    name2=input("enter your girlfriend name:")
     l1=[]
     l2=[]
     l3=[]
