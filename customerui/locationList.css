@@ -1,0 +1,14 @@
+.location-list {
+    max-height: 400px; 
+    overflow-y: auto;
+  }
+  
+  .location-item {
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  .location-item:hover {
+    background-color: #e6f7ff;
+  }
+  

@@ -1,0 +1,20 @@
+.property-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.property-card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    cursor: pointer;
+}
+
+.property-image {
+    width: 100%;
+    height: auto;
+}
+
+.property-details {
+    margin-top: 8px;
+}
